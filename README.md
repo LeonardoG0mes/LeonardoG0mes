@@ -7,7 +7,9 @@ Leonardo Gomes
 
 Python: Domínio dos conceitos básicos e avançados, como orientação a objetos, programação funcional, decorators, manipulação de arquivos e gerenciamento de exceções.
 Frameworks: Experiência com Flask e Django, incluindo autenticação e controle de usuário.
+
 🌱 Próximos Passos:
+
 Estou ansioso para expandir meu conhecimento e aprimorar minhas habilidades como desenvolvedor back-end. Meus próximos objetivos incluem:
 
 Aprofundar meus conhecimentos em SQL, incluindo criação e modelagem de dados, além de explorar bancos de dados relacionais e não relacionais.
