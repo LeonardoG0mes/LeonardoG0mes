@@ -14,8 +14,11 @@ Estou ansioso para expandir meu conhecimento e aprimorar minhas habilidades como
 
 Aprofundar meus conhecimentos em SQL, incluindo criação e modelagem de dados, além de explorar bancos de dados relacionais e não relacionais.
 Explorar o desenvolvimento de APIs RESTful.
+
 Aprofundar meu conhecimento em tópicos avançados do Flask e Django, como manipulação de arquivos, testes automatizados e otimização de desempenho.
+
 Explorar frameworks adicionais, como SQLAlchemy e Requests, para ampliar meu conjunto de habilidades e capacidades.
+
 Participar de projetos de código aberto para colaborar com outros desenvolvedores, aprender com suas experiências e contribuir para a comunidade.
 
 📫 Entre em Contato:
