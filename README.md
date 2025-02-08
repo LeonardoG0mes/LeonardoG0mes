@@ -23,5 +23,4 @@ Sempre busco aprimorar minhas habilidades e entregar **soluções que realmente 
 
 📫 **Meus contatos:**   
 📧 leonardowebsites25@gmail.com
-
 💼 https://www.linkedin.com/in/leonardo-gomes-do-vale-07b95b264/
