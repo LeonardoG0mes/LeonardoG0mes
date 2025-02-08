@@ -1,26 +1,26 @@
 Leonardo Gomes
-👨‍💻 Estudante de Programação Back-End | Apaixonado por Python 🐍
+👋 Sobre Mim  
 
-🌟 Bem-vindo ao meu perfil! Sou um estudante de programação dedicado a me tornar um desenvolvedor back-end habilidoso. Minha paixão pela linguagem Python me motiva a explorar e dominar os principais frameworks, como Flask e Django.
+Sou um **desenvolvedor web freelancer** apaixonado por tecnologia e inovação. Meu foco é transformar ideias em soluções digitais funcionais, intuitivas e de alto desempenho. Trabalho criando **sites, sistemas personalizados e automações**, ajudando empresas e profissionais a otimizar processos, melhorar a experiência do usuário e aumentar a produtividade.  
 
-🚀 Habilidades e Conhecimentos:
+Acredito que um bom desenvolvimento vai além do código: envolve **usabilidade, eficiência e escalabilidade**. Por isso, estou sempre explorando novas tecnologias e práticas para entregar soluções modernas e adaptáveis às necessidades de cada projeto.  
 
-Python: Domínio dos conceitos básicos e avançados, como orientação a objetos, programação funcional, decorators, manipulação de arquivos e gerenciamento de exceções.
-Frameworks: Experiência com Flask e Django, incluindo autenticação e controle de usuário.
+💻 **Tecnologias que utilizo:**  
+✔ **Python & Django** para back-end robusto e escalável  
+✔ **HTML, CSS & JavaScript** para interfaces modernas e responsivas  
+✔ **Banco de dados SQL & NoSQL** para armazenamento eficiente  
+✔ **Automação de tarefas** para otimizar fluxos de trabalho  
 
-🌱 Próximos Passos:
+🚀 **Projetos que já desenvolvi:**  
+✅ **E-commerce**  
+✅ **Site de notícias**  
+✅ **Blog & portfólio**  
+✅ **Sistema PDV**  
+✅ **Plataforma de agendamento online**  
+✅ **Automação de processos**  
 
-Estou ansioso para expandir meu conhecimento e aprimorar minhas habilidades como desenvolvedor back-end. Meus próximos objetivos incluem:
+Sempre busco aprimorar minhas habilidades e entregar **soluções que realmente fazem a diferença**. Se quiser trocar uma ideia sobre tecnologia ou discutir um projeto, estou à disposição!  
 
-Aprofundar meus conhecimentos em SQL, incluindo criação e modelagem de dados, além de explorar bancos de dados relacionais e não relacionais.
-Explorar o desenvolvimento de APIs RESTful.
-
-Aprofundar meu conhecimento em tópicos avançados do Flask e Django, como manipulação de arquivos, testes automatizados e otimização de desempenho.
-
-Explorar frameworks adicionais, como SQLAlchemy e Requests, para ampliar meu conjunto de habilidades e capacidades.
-
-Participar de projetos de código aberto para colaborar com outros desenvolvedores, aprender com suas experiências e contribuir para a comunidade.
-
-📫 Entre em Contato:
-
-📧 E-mail: pythonbackend0@gmail.com
+📫 **Meus contatos:**   
+📧 leonardowebsites25@gmail.com
+💼 https://www.linkedin.com/in/leonardo-gomes-do-vale-07b95b264/
